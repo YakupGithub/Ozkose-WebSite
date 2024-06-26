@@ -4,10 +4,6 @@
   <a href="https://ozkosegroup.com">www.ozkosegroup.com</a>
 </h2>
 
-<p align="center">
-  Welcome to the Özköse Group website project! This README provides an overview of the project, including key features, technologies used, and a brief guide on how to navigate the repository.
-</p>
-
 <h2>Project Overview</h2>
 <p>
   Özköse Group is a company engaged in various sectors such as construction, tourism, mining, restoration, food, and real estate. The website serves as an online presence for the company, showcasing their services, projects, and providing essential information to potential clients and partners.
