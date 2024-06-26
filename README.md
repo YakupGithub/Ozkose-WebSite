@@ -1,7 +1,7 @@
 <h1 align="center">Özköse Group Website</h1>
 
 <p align="center">
-  <img src="[https://via.placeholder.com/150](https://ozkosegroup.com/images/ozkose-logo.png)" alt="Özköse Group Logo" style="border-radius: 10px;">
+  <img src="https://ozkosegroup.com/images/ozkose-logo.png" alt="Özköse Group Logo">
 </p>
 
 <p align="center">
@@ -25,43 +25,12 @@
 
 <h2>Technologies Used</h2>
 <ul>
-  <li><strong>Frontend</strong>: HTML5, CSS3, JavaScript, Bootstrap</li>
-  <li><strong>Backend</strong>: PHP, Laravel (optional mention if backend was used)</li>
-  <li><strong>Database</strong>: MySQL (optional mention if a database was used)</li>
-  <li><strong>Version Control</strong>: Git</li>
+  <li>HTML5, CSS3, JavaScript, Bootstrap</li>
 </ul>
-
-<h2>Repository Structure</h2>
-<p>The repository for this project is organized as follows:</p>
-<ul>
-  <li><strong>README.md</strong>: This file, providing an overview of the project.</li>
-  <li><strong>src/</strong>: Source code for the website.</li>
-  <li><strong>assets/</strong>: Images, CSS files, JavaScript files, and other assets used in the project.</li>
-  <li><strong>docs/</strong>: Documentation and additional resources.</li>
-</ul>
-
-<h2>Installation and Setup</h2>
-<p>To set up the project locally, follow these steps:</p>
-<ol>
-  <li>Clone the repository:
-    <pre><code>git clone https://github.com/yourusername/ozkosegroup.git</code></pre>
-  </li>
-  <li>Navigate to the project directory:
-    <pre><code>cd ozkosegroup</code></pre>
-  </li>
-  <li>Open the <code>index.html</code> file in your preferred browser to view the website locally.</li>
-</ol>
-
-<h2>Contributing</h2>
-<p>Contributions are welcome! If you have suggestions or improvements, feel free to create an issue or submit a pull request. Please ensure that your contributions adhere to the project's coding standards and guidelines.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 
 <h2>Contact</h2>
 <p>For any inquiries or feedback, please reach out via:</p>
 <ul>
-  <li><strong>Email</strong>: <a href="mailto:yourname@example.com">yourname@example.com</a></li>
-  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></li>
-  <li><strong>GitHub</strong>: <a href="https://github.com/yourusername">Your GitHub Profile</a></li>
+  <li><strong>Email</strong>: <a href="mailto:ykpgunduz@icloud.com">ykpgunduz@icloud.com</a></li>
+  <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/yakupgunduz">Yakup Gündüz</a></li>
 </ul>
