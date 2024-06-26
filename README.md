@@ -1,8 +1,8 @@
 <h1 align="center">Özköse Group Website</h1>
 
-<p align="center">
-  <img src="https://ozkosegroup.com/images/ozkose-logo.png" alt="Özköse Group Logo">
-</p>
+<h2 align="center">
+  <a href="ozkosegroup.com">www.ozkosegroup.com</a>
+</h2>
 
 <p align="center">
   Welcome to the Özköse Group website project! This README provides an overview of the project, including key features, technologies used, and a brief guide on how to navigate the repository.
