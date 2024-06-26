@@ -1,4 +1,4 @@
-<h1 align="center">Özköse Group Website Project</h1>
+<h1 align="center">Özköse Group WebSite Project</h1>
 
 <h2 align="center">
   <a href="https://ozkosegroup.com">www.ozkosegroup.com</a>
